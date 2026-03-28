@@ -17,7 +17,7 @@ iPhone と対応OS上で利用できます。
 CSVで書き出せます。
 
 ## Privacy Policy
-https://your-privacy-policy-url.example
+https://tooraapps-cloud.github.io/drivevector-support/privacy-policy
 
 ## Notes
 本アプリの表示値は参考情報です。走行中の操作はしないでください。
