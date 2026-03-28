@@ -4,7 +4,7 @@ DriveVector のサポートページです。
 
 ## Contact
 お問い合わせ:
-drivevector@example.com
+toora.apps@gmail.com
 
 ## FAQ
 ### 対応端末
